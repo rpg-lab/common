@@ -1,1 +1,0 @@
-[{"directory":"/Users/user/workspace/rpg-lab/common","arguments":["clang","-Iinclude","-x","c","-std=c99","-Wall","-Wextra","-Werror","-pedantic","-c","file.c","-o","file.o"],"file":"file.c" }]
